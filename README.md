@@ -1,4 +1,4 @@
-# getyoutubevideo
+# GetYouTubeVideo
 Python script that runs in the Mac terminal. It requests a YT URL within the terminal, you paste the video url into the terminal when prompted and it will download the video if it is not blocked by age restrictions.
 
 ## Included Files
